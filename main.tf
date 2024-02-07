@@ -1,4 +1,4 @@
-#Nothing sensitive will be  found in this fille
+#Nothing sensitive will be  found in this file
 
 
 provider "aws" {
