@@ -1,4 +1,4 @@
-#Nothing sensitive will be  found in this fille
+#Nothing sensitive will be  found in this file
 terraform {
   backend "s3" {
     bucket         = "sample-bucket-2024" # change this to you bucket name
